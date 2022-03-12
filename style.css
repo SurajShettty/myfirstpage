@@ -1,0 +1,28 @@
+
+
+.col {
+	background-color: grey;
+	border: 2px solid black;
+}
+
+.btn-danger {
+	background-color: orange;
+}
+
+.btn-primary:hover {
+	background-color: #000000;
+	border-color: blue;
+	border-width: 2px;
+}
+body {
+	margin: 0px 20px;
+
+}
+
+.btn {
+	border-radius: 500px;
+}
+
+.btn-lar {
+	padding: 1rem 2rem;
+}
